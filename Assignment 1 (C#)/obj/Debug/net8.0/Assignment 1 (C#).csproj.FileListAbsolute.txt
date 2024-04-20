@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).AssemblyInfo.cs
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\bin\Debug\net8.0\Assignment 1 (C#).exe
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\bin\Debug\net8.0\Assignment 1 (C#).deps.json
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\bin\Debug\net8.0\Assignment 1 (C#).runtimeconfig.json
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\bin\Debug\net8.0\Assignment 1 (C#).dll
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\bin\Debug\net8.0\Assignment 1 (C#).pdb
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).dll
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\refint\Assignment 1 (C#).dll
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).pdb
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\Assignment 1 (C#).genruntimeconfig.cache
+C:\Users\admin\Documents\Assignment 1 (C#)\Assignment 1 (C#)\obj\Debug\net8.0\ref\Assignment 1 (C#).dll
